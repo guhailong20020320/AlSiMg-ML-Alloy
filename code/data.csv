@@ -1,0 +1,171 @@
+﻿Al,Si,Mg,Zn,Cu,Mn,Fe,Ti,Sr,Sc,UTS,YS,EL,Reference
+92.6,7,0.4,0,0,0,0,0,0,0,198.2,89.5,8.2,[1]
+92.5985,7,0.4,0,0,0,0,0,0.0015,0,210.5,94.1,10.8,[1]
+92.5965,7,0.4,0,0,0,0,0,0.0035,0,207.3,95.8,11.3,[1]
+92.595,7,0.4,0,0,0,0,0,0.005,0,209.2,98.5,12.6,[1]
+92.5925,7,0.4,0,0,0,0,0,0.0075,0,208.8,96.7,12.7,[1]
+92.59,7,0.4,0,0,0,0,0,0.01,0,207,92.3,12.6,[1]
+92.575,7,0.4,0,0,0,0,0,0.025,0,203.2,91,12.9,[1]
+92.55,7,0.4,0,0,0,0,0,0.05,0,198.9,89.4,13.9,[1]
+92.527,7,0.4,0,0,0,0,0,0.073,0,201.3,93.2,13,[1]
+92.5,7,0.4,0,0,0,0,0,0.1,0,199.5,92.7,13.5,[1]
+92.475,7,0.4,0,0,0,0,0,0.125,0,200.5,91.7,12.9,[1]
+92.66,6.9,0.44,0,0,0,0,0,0,0,201.4,106.4,4.6,[2]
+92.45,6.9,0.44,0,0,0,0,0,0,0.21,213.2,127.6,4.6,[2]
+92.25,6.9,0.44,0,0,0,0,0,0,0.41,234.8,148.1,5.4,[2]
+92.12,6.9,0.44,0,0,0,0,0,0,0.54,239.1,153.2,5.3,[2]
+92.01,6.9,0.44,0,0,0,0,0,0,0.65,238.5,148.8,3.9,[2]
+91.91,6.9,0.44,0,0,0,0,0,0,0.75,238.3,147.6,3.6,[2]
+92.535,7,0.45,0,0,0,0,0.01,0.005,0,173.42,91.6,7.4,[3]
+92.515,7,0.45,0,0,0,0,0.03,0.005,0,179.54,98.4,8.7,[3]
+92.495,7,0.45,0,0,0,0,0.05,0.005,0,193.2,98.3,12,[3]
+92.465,7,0.45,0,0,0,0,0.08,0.005,0,199.6,101.6,12.3,[3]
+92.395,7,0.45,0,0,0,0,0.15,0.005,0,191,100,8.4,[3]
+92.345,7,0.45,0,0,0,0,0.2,0.005,0,190,103.9,7.6,[3]
+91.98,7,0.45,0,0,0,0,0,0.03,0.54,238,134,7,[4]
+91.91,7,0.45,0,0,0,0,0,0.1,0.54,233,132,7,[4]
+92.434,7,0.45,0,0,0,0,0.075,0.005,0.036,211,101,13,[4]
+92.27,7,0.45,0,0,0,0,0.075,0.005,0.2,220,113,13,[4]
+92.07,7,0.45,0,0,0,0,0.075,0.005,0.4,243,134,11,[4]
+91.92,7,0.45,0,0,0,0,0.075,0.005,0.55,253,140,11,[4]
+91.82,7,0.45,0,0,0,0,0.075,0.005,0.65,242,138,10,[4]
+91.71,7,0.45,0,0,0,0,0.075,0.005,0.76,244,138,9,[4]
+91.9,7,0.45,0,0,0,0,0.095,0.005,0.55,264,149,10,[4]
+91.795,7,0.45,0,0,0,0,0.2,0.005,0.55,266,151,8,[4]
+92.13,7.34,0.53,0,0,0,0,0,0,0,234,128,4.6,[5]
+92.008,7.47,0.49,0,0,0,0,0,0.032,0,251,135,8.7,[5]
+92.7,7,0.3,0,0,0,0,0,0,0,204.68,106.16,4.6,[6]
+92.16,7,0.3,0,0,0,0,0,0,0.54,239.37,153.14,5.3,[6]
+92.4,7,0.6,0,0,0,0,0,0,0,213.51,122.18,5.1,[6]
+91.9,7,0.6,0,0,0,0,0,0,0.5,238.6,158.14,5.4,[6]
+92.06,7,0.45,0,0,0,0,0,0,0.54,232,136,8,[7]
+95.85,3.18,0.78,0,0.01,0.02,0.16,0,0,0,234,,10.1,[8]
+95.84,3.18,0.78,0,0.01,0.02,0.16,0,0.01,0,238,,10.5,[8]
+95.83,3.18,0.78,0,0.01,0.02,0.16,0,0.02,0,240,,10.7,[8]
+95.82,3.18,0.78,0,0.01,0.02,0.16,0,0.03,0,241,,11,[8]
+95.81,3.18,0.78,0,0.01,0.02,0.16,0,0.04,0,243,,11.3,[8]
+95.8,3.18,0.78,0,0.01,0.02,0.16,0,0.05,0,243,,11.3,[8]
+92.37,7,0.35,0,0,0,0.1,0.13,0.05,0,151.7,40.7,4.33,[9]
+92.32,7,0.35,0,0,0,0.1,0.13,0.1,0,159.2,50.1,3.91,[9]
+92.27,7,0.35,0,0,0,0.1,0.13,0.15,0,189.5,51.4,9.92,[9]
+92.22,7,0.35,0,0,0,0.1,0.13,0.2,0,194.1,52.1,10.15,[9]
+92.17,7,0.35,0,0,0,0.1,0.13,0.25,0,177.2,48.2,6.96,[9]
+92.66,6.75,0.35,0,0,0,0.11,0.13,0,0,158,,2,[10]
+92.46,6.71,0.37,0,0,0,0.12,0.14,0,0.2,179,,3.2,[10]
+92.35,6.65,0.37,0,0,0,0.13,0.15,0,0.35,185,,5.1,[10]
+92.144,7.3,0.35,0,0.004,0.002,0.1,0.1,0,0,168,,3.4,[11]
+92.129,7.3,0.35,0,0.004,0.002,0.1,0.1,0.015,0,178,,4.9,[11]
+92.28,7,0.35,0,0.1,0,0.11,0.16,0,0,169,,4.5,[12]
+92.265,7,0.35,0,0.1,0,0.11,0.16,0.015,0,176,,6.2,[12]
+92.26,7,0.35,0,0.1,0,0.11,0.16,0.02,0,184,,6.9,[12]
+92.25,7,0.35,0,0.1,0,0.11,0.16,0.03,0,198,,7.8,[12]
+92.24,7,0.35,0,0.1,0,0.11,0.16,0.04,0,187,,7.1,[12]
+92.563,6.843,0.386,0.027,0.064,0.032,0,0.085,0,0,171,,4.4,[13]
+92.543,6.843,0.386,0.027,0.064,0.032,0,0.085,0.02,0,196,,5.86,[13]
+92.523,6.843,0.386,0.027,0.064,0.032,0,0.085,0.04,0,216,,6.84,[13]
+92.503,6.843,0.386,0.027,0.064,0.032,0,0.085,0.06,0,198,,6.29,[13]
+92.483,6.843,0.386,0.027,0.064,0.032,0,0.085,0.08,0,192,,5.95,[13]
+92.35,7,0.4,0.05,0.05,0.05,0,0.1,0,0,170.53,,5.21,[14]
+92.33,7,0.4,0.05,0.05,0.05,0,0.1,0.02,0,196.54,,5.84,[14]
+92.31,7,0.4,0.05,0.05,0.05,0,0.1,0.04,0,215.99,,4.04,[14]
+92.29,7,0.4,0.05,0.05,0.05,0,0.1,0.06,0,198.09,,3.88,[14]
+92.27,7,0.4,0.05,0.05,0.05,0,0.1,0.08,0,192.95,,5.28,[14]
+92.25,7,0.4,0.05,0.05,0.05,0,0.1,0.1,0,183.55,,5.88,[14]
+92.435,6.96,0.34,0.005,0.005,0.005,0.12,0.13,0,0,173,,3.6,[15]
+92.425,6.96,0.34,0.005,0.005,0.005,0.12,0.13,0.01,0,194,,6.4,[15]
+92.405,6.96,0.34,0.005,0.005,0.005,0.12,0.13,0.03,0,204,,10.4,[15]
+92.385,6.96,0.34,0.005,0.005,0.005,0.12,0.13,0.05,0,192,,13.5,[15]
+92.365,6.96,0.34,0.005,0.005,0.005,0.12,0.13,0.07,0,182,,12.2,[15]
+92.335,6.96,0.34,0.005,0.005,0.005,0.12,0.13,0.1,0,179,,9.2,[15]
+92.285,6.96,0.34,0.005,0.005,0.005,0.12,0.13,0.15,0,180,,9,[15]
+92.3057,7.04,0.3783,0,0.0005,0,0.09,0.171,0.0145,0,172.7,109.3,6.33,[16]
+92.2722,7.04,0.3783,0,0.0005,0,0.09,0.179,0.04,0,181.3,112.3,5.33,[16]
+92.2923,7.04,0.3783,0,0.0005,0,0.09,0.153,0.0459,0,186.3,117.6,8.33,[16]
+92.3899,7.04,0.3783,0,0.0005,0,0.09,0.0863,0.015,0,205,110.6,10,[16]
+92.221,7.14,0.34,0.03,0.012,0.02,0.111,0.126,0,0,185.2,80,5,[17]
+92.25,6.95,0.3,0,0.05,0.1,0.21,0.14,0,0,184,105,5.78,[18]
+91.54,6.96,0.3,0.1,0.1,0.3,0.5,0.2,0,0,185,131,3.25,[19]
+91.52,6.96,0.3,0.1,0.1,0.3,0.5,0.22,0,0,188,132,4.05,[19]
+91.52,6.96,0.3,0.1,0.1,0.3,0.5,0.2,0.02,0,195,139,4.78,[19]
+92.23,7.17,0.34,0,0,0,0.12,0.14,0,0,182.3,135.4,4.4,[20]
+92.18,7.17,0.34,0,0,0,0.12,0.14,0.05,0,199.3,122.4,6.9,[20]
+92.135,7.44,0.31,0,0,0,0.11,0.005,0,0,207,113,6.6,[21]
+92.05,6.95,0.4,0,0.05,0.1,0.31,0.14,0,0,184,105,5.8,[22]
+91.67,7.1,0.42,0,0.09,0.12,0.3,0.09,0,0.21,210,116,6.5,[22]
+91.38,7.09,0.45,0,0.13,0.16,0.28,0.13,0,0.38,215,123,8,[22]
+91.904,7.49,0.46,0.041,0.0076,0.02,0.16,0.013,0,0,216.7,,8.7,[23]
+91.693,7.2,0.3,0.04,0.18,0.06,0.1,0.16,0.067,0.2,183,93,4.4,[24]
+90.66,8.2,0.56,0,0.15,0,0.42,0,0.01,0,163.1,76.7,5.1,[25]
+90.84,7.97,0.58,0,0.17,0,0.42,0,0.02,0,182.3,89.3,6.8,[25]
+90.87,7.92,0.59,0,0.15,0,0.44,0,0.03,0,173.4,87.7,6.1,[25]
+90.46,8.12,0.57,0,0.16,0.22,0.43,0,0.02,0,195.3,102.9,7.5,[25]
+90.2,8.21,0.55,0,0.18,0.39,0.45,0,0.02,0,201.9,115.3,9,[25]
+90.37,7.86,0.55,0,0.14,0.61,0.45,0,0.02,0,185.4,114.3,7.4,[25]
+91.135,8.51,0.173,0,0,0,0.182,0,0,0,153.76,129.28,4.23,[26]
+90.978,8.59,0.28,0,0,0,0.152,0,0,0,166.31,132.84,3.08,[26]
+90.809,8.62,0.394,0,0,0,0.177,0,0,0,178.86,156.56,2.68,[26]
+90.489,8.66,0.714,0,0,0,0.137,0,0,0,201.35,155.68,2,[26]
+92.13,7.34,0.53,0,0,0,0,0,0,0,234,128,4.6,[27]
+92.008,7.47,0.49,0,0,0,0,0,0.032,0,251,135,8.7,[27]
+92.396,6.75,0.63,0,0,0,0.084,0.14,0,0,193,153,2.2,[28]
+91.92,7.5,0.36,0,0,0,0.12,0.1,0,0,155,71.9,4.4,[29]
+91.928,7.5,0.34,0,0,0,0.12,0.1,0.012,0,155.3,73.4,5.6,[29]
+92.14,7,0.62,0,0,0,0.13,0.11,0,0,161,74.6,3.2,[29]
+92.138,7,0.6,0,0,0,0.14,0.11,0.012,0,171.6,77.9,4.6,[29]
+92.18,7.21,0.41,0,0,0,0.08,0.12,0,0,186.65,99.35,6.86,[30]
+92.17,7.21,0.41,0,0,0,0.08,0.13,0,0,194.35,102.38,8.64,[30]
+90.961,8.11,0.59,0,0.11,0,0.2,0,0.029,0,188,117,5.35,[31]
+92.5462,6.28,0.364,0,0.512,0,0.168,0.111,0.0188,0,200,90,7.7,[32]
+92.2116,6.36,0.359,0,0.498,0.254,0.173,0.127,0.0174,0,203.6,91.9,8.6,[32]
+92.71,6.78,0.31,0,0,0,0.08,0.12,0,0,183.4,,6.4,[33]
+91.9,6.93,0.34,0,0.6,0,0.1,0.13,0,0,202,,5.6,[33]
+92.66,6.75,0.35,0,0,0,0.11,0.13,0,0,158,,2,[34]
+92.46,6.71,0.37,0,0,0,0.12,0.14,0,0.2,179,,3.2,[34]
+92.35,6.65,0.37,0,0,0,0.13,0.15,0,0.35,185,,5.1,[34]
+92.53,6.95,0.35,0,0,0,0,0.17,0,0,193,106,6.4,[35]
+92.58,7.13,"	0.41",0,0,0,0.14,0.15,"	0.013",0,184,130,5.14,[36]
+92.055,6.8,0.3,0,0.48,0.06,0.09,0.2,0.015,0,204.5,110,3.2,[37]
+92.455,7.03,0.29,0,0,0,0.095,0.13,0,0,171,87,4.5,[38]
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Reference,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"[1] Yi W, Liu G, Lu Z, et al. Efficient alloy design of Sr-modified A356 alloys driven by computational thermodynamics and machine learning[J]. Journal of Materials Science & Technology, 2022, 112: 277-290.",,,,,,,,,,,,,
+"[2] Lu Z, Zhang L. Thermodynamic description of the quaternary Al-Si-Mg-Sc system and its application to the design of novel Sc-additional A356 alloys[J]. Materials & Design, 2017, 116: 427-437.",,,,,,,,,,,,,
+"[3] Shaoji Z ,Wang Y ,Jing Z , et al.Computer Alloy Design of Ti Modified Al-Si-Mg-Sr Casting Alloys for Achieving Simultaneous Enhancement in Strength and Ductility[J].Materials,2022,16(1):306-306.",,,,,,,,,,,,,
+"[4] J. Zhang, Composition design and strengthening/toughening mechanisms of Ti, Sr and Sc modified Al-Si-Mg casting alloys [Master’s thesis], Central South University, 2023. https://doi.org/10.27661/d.cnki.gzhnu.2023.004061.",,,,,,,,,,,,,
+"[5] Li B ,Wang H ,Jie J , et al.Effects of yttrium and heat treatment on the microstructure and tensile properties of Al-7.5Si-0.5Mg alloy[J].Materials & design,2011,32(3):1617-1622.",,,,,,,,,,,,,
+"[6] Lu Z ,Zhang L ,Wang J , et al.Understanding of strengthening and toughening mechanisms for Sc-modified Al-Si-(Mg) series casting alloys designed by computational thermodynamics[J].Journal of Alloys and Compounds,2019,805:415-425.",,,,,,,,,,,,,
+"[7] Liu G ,Gao J ,Che C , et al.Optimization of casting means and heat treatment routines for improving mechanical and corrosion resistance properties of A356-0.54Sc casting alloy[J].Materials Today Communications,2020.",,,,,,,,,,,,,
+"[8] Y. Niu, X. Lai, W. Ma, et al., Effects of Sr-modification on microstructure and properties of as-cast Al–Si–Mg alloy, Nonferrous Metals Processing. 46(2) (2017) 10–13.",,,,,,,,,,,,,
+"[9] Wang K ,Li W ,Xu W , et al.Simultaneous Improvement of Thermal Conductivity and Strength for Commercial A356 Alloy Using Strontium Modification Process[J].Metals and Materials International,2020,27(11):1-15.",,,,,,,,,,,,,
+"[10] Xu P S ,Shi S C ,Zhao Q N , et al.Microstructure and tensile properties of A356 alloy with different Sc/Zr additions[J].Rare Metals,2020.",,,,,,,,,,,,,
+"[11] W. Yao, Effect of compound treatment by RE-Sr on the microstructure and property of A356 alloy, in: Chinese Mechanical Engineering Society (Ed.), Proceedings of the 2012 China Foundry Activity Week, North United Aluminum (Shenzhen) Co., Ltd., 2012, pp. 517-522.",,,,,,,,,,,,,
+"[12] W. Cheng, J. Wei, D. Sun, et al., Inoculation of A356 aluminum alloy, Heat Treatment. 35(5) (2020) 26–29+35.",,,,,,,,,,,,,
+"[13] F. Jiang, Z. Suo, X. Liu, et al., Effect of heat treatment on microstructure and mechanical properties of A356 alloy modified by different Sr content, Foundry. 68(1) (2019) 29–33.",,,,,,,,,,,,,
+"[14] F. Jiang, Z. Suo, D. Wang, et al., Effect of different Sr contents on microstructure and mechanical properties of A356 alloy, Foundry. 67(11) (2018) 1012–1015.",,,,,,,,,,,,,
+"[15] H. Zhao, J. Zhou, S. Tang, et al., Impact of Sr content on microstructure and mechanical properties of A356 alloy, Shandong Science. 29(5) (2016) 65–69.",,,,,,,,,,,,,
+"[16] Reeturaj T ,Amit B ,Hemant B .Effect of Addition of Grain Refiner and Modifier on Microstructural and Mechanical Properties of Squeeze Cast A356 Alloy[J].Transactions of the Indian Institute of Metals,2022,75(9):2395-2408.",,,,,,,,,,,,,
+"[17] Yingguang L ,Chunxiang C ,Hongtao G , et al.Synergistic effects of Cr and Sr addition on the mechanical and corrosion properties of A356.2 alloy[J].Materials Characterization,2022,191",,,,,,,,,,,,,
+"[18] S.L.P. Ravikirana, A.K.P. Rao, B.S. Murty, S.R. Bakshi. Microstructure and mechanical properties of as-cast and T6 treated Sc modified A356–5TiB2 in–situ composite. Mater. Sci. Eng. A 73 (2019) 383–394. https://doi.org/10.1016/j.msea.2018.10.080.",,,,,,,,,,,,,
+"[19] Mallapur G D ,Kori A S ,Udupa R K .Influence of Ti, B and Sr on the microstructure and mechanical properties of A356 alloy[J].Journal of Materials Science,2011,46(6):1622-1627.",,,,,,,,,,,,,
+"[20] Lin X Z ,Hao J L ,Shu W L , et al.Effect of Sr–Ce modification on the microstructure and mechanical properties of A356 alloy[J].International Journal of Metalcasting,2022,17(2):1008-1020.",,,,,,,,,,,,,
+"[21] Ma S ,Wang X .Mechanical properties and fracture of in-situ Al3Ti particulate reinforced A356 composites[J].Materials Science & Engineering A,2019,75446-56.",,,,,,,,,,,,,
+"[22] S.L.P Ravikirana, A.K.P. Rao, B.S. Murty, B. Srinivasa. Effect of Sc addition and T6 aging treatment on the microstructure modification and mechanical properties of A356 alloy. Mater. Sci. Eng. A 674 (2016) 438–450. https://doi.org/10.1016/j.msea.2016.08.022.",,,,,,,,,,,,,
+"[23] Z.S. Yu, H.H. Zhang, G.J. Shao, L.P. Xu, L. Xu. Microstructure and mechanical properties of the liquid die castings and semi–solid die castings of aluminum alloy. Heat Treatment of Metals 1 (2003) 32–34. https://doi.org/10.3969/j.issn.0254-6051.2003.01.009.",,,,,,,,,,,,,
+"[24] Pan S ,Zheng J ,Wang Y , et al.Optimizing the mechanical performance of A356–Sc–Sr alloy via combining machine learning and mechanical stirring under vacuum[J].Materials Characterization,2024,212114011-.",,,,,,,,,,,,,
+"[25] S. Meng, L. Yang, M. Gao, et al., Role of Sr and Mn alloying on microstructure and comprehensive performance in as-cast Al−Si−Fe−Mg−Cu alloy, Trans. Nonferrous Met. Soc. China (2024) 1–23. http://kns.cnki.net/kcms/detail/43.1239.TG.20240625.1607.004.html.",,,,,,,,,,,,,
+"[26] N. Ben, Y. Sun, P. Zhou, Effect of Mg content on microstructure evolution and properties of AlSiMg alloy, Foundry. 69(9) (2020) 929–933.",,,,,,,,,,,,,
+"[27] Bao L ,Hongwei W ,Jinchuan J , et al.Effects of yttrium and heat treatment on the microstructure and tensile properties of Al–7.5Si–0.5Mg alloy[J].Materials and Design,2010,32(3):1617-1622.",,,,,,,,,,,,,
+"[28] Jiang W ,Fan Z ,Dai Y , et al.Effects of rare earth elements addition on microstructures, tensile properties and fractography of A357 alloy[J].Materials Science & Engineering A,2014,597237-244.",,,,,,,,,,,,,
+"[29] Z. Chen, W. Jie, Effects of Mg on the microstructure and mechanical property of Al-Si-Mg casting alloys, Journal of Materials Science and Engineering. (5) (2004) 647–652.",,,,,,,,,,,,,
+"[30] E. S ,B. G ,A.M. S , et al.Effect of grain refiner on the tensile and impact properties of Al–Si–Mg cast alloys[J].Materials and Design,2013,56468-479.",,,,,,,,,,,,,
+"[31] X. Guo, Effect of trace Zr, B and V on microstructure and properties of Al-Si-Mg-Cu alloy [Master’s thesis], Central South University, 2022. https://doi.org/10.27661/d.cnki.gzhnu.2022.004201.",,,,,,,,,,,,,
+"[32] S. Liang, L. Chen, H. Zhu, et al., Effect of transition elements Mn, Cr, Zr on the microstructure and mechanical properties of Al-7Si-0.35Mg casting alloys, Light Alloy Fabrication Technology. 52(3) (2024) 20–29. https://doi.org/10.13979/j.1007-7235.2024.03.004.",,,,,,,,,,,,,
+"[33] Z. Zhang, Effect of Cu and Zr alloying on microstructure and properties of Al-7Si-0.35Mg alloy [Master’s thesis], Hefei University of Technology, 2021. https://doi.org/10.27101/d.cnki.ghfgu.2021.001846.",,,,,,,,,,,,,
+"[34] Xu S ,Shi C ,Zhao N , et al.Microstructure and tensile properties of A356 alloy with different Sc/Zr additions[J].Rare Metals,2021,40(09):2514-2522.",,,,,,,,,,,,,
+"[35] H. Ge, Study on microstructure and properties of Ti and Zr composite modified A356 alloy [Master’s thesis], Hefei University of Technology, 2019. https://doi.org/10.27101/d.cnki.ghfgu.2019.000826.",,,,,,,,,,,,,
+"[36] Zhang Y, Zhao H, Liu F. Microstructure characteristics and mechanical properties improvement of gravity cast Al-7Si-0.4 Mg alloys with Zr additions[J]. Materials Characterization, 2021, 176: 111117.",,,,,,,,,,,,,
+"[37] Rahimian M ,Amirkhanlou S ,Blake P , et al.Nanoscale Zr-containing precipitates; a solution for significant improvement of high-temperature strength in Al-Si-Cu-Mg alloys[J].Materials Science & Engineering A,2018,721328-338.",,,,,,,,,,,,,
+"[38] Ye P ,Jiang F ,Wu F , et al.Effects of Zr and Y additions on microstructure and mechanical properties of cast A356 alloy[J].Journal of Materials Research and Technology,2024,306355-6365.",,,,,,,,,,,,,
