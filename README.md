@@ -2,7 +2,8 @@
 Python code and raw experimental data for CatBoost modeling, SHAP/PDP analysis, and multi-objective optimization of cast Al-Si-Mg alloys.
 
 
----
+---This repository contains the experimental data and Jupyter Notebook code for the paper:
+**Simultaneously enhancing strength and toughness of cast Al-Si-Mg alloys via interpretable machine learning*
 
 ## 📄 File Description
 
